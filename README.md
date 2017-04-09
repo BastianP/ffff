@@ -13,6 +13,8 @@
 % Licencia: MIT           [https://opensource.org/licenses/MIT]
 
 % CREACIÓN DEL DOCUMENTO, FUENTE E IDIOMA
+
+
 \documentclass[letterpaper,11pt]{article} % Articulo tamaño carta, fuente 11
 \usepackage[utf8]{inputenc}               % Codificación UTF-8
 \usepackage[T1]{fontenc}                  % Soporta caracteres acentuados
